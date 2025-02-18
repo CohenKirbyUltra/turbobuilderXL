@@ -29,5 +29,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           npm i --force
-          npm run dev 
           --host
+          npm run dev --host
